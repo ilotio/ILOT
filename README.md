@@ -130,3 +130,4 @@ What can the contract owner do? The contract owner can:
 
 * https://ILOT.io/  
 * https://twitter.com/ilotofficial
+* https://bitcointalk.org/index.php?topic=3207866.0
